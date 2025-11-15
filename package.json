@@ -1,0 +1,21 @@
+{
+  "name": "finance-test",
+  "version": "0.0.0-development",
+  "description": "Test repository to verify the finance data extraction",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klojtas/finance-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/commit-analyzer": "^11.1.0",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^9.2.6",
+    "@semantic-release/npm": "^12.0.0",
+    "@semantic-release/release-notes-generator": "^12.1.0",
+    "semantic-release": "^23.0.0"
+  }
+}
